@@ -1,0 +1,14 @@
+# Site settings
+title: Code & Cookies
+email: codeandcookies@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A notebook on my experiences in the wonderful, and sometimes terrible,
+  world of software engineering.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://codeandcookies.net"
+twitter_username: codeandcookies
+github_username:  codeandcookies
+linkedin_username: jdcommer
+
+# Build settings
+markdown: kramdown
